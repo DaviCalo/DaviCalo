@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaviCalo
-- 👀 I’m interested in software development and Android development
+- 👀 I’m interested in Software Development and Android Development
 - 🌱 I’m currently learning kotlin and java
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I think Kotlin is more difficult than Java 😂
