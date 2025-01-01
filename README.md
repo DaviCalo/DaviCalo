@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Android Development
 - 🌱 I’m currently learning kotlin and Angular
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I think Kotlin is more difficult than Java 😂
+- ⚡ Fun fact: I like Java 😂
 
 <!---
 DaviCalo/DaviCalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
