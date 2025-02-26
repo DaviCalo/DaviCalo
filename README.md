@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviCalo
-- 👀 I’m interested in Software Development and Android Development
-- 🌱 I’m currently learning kotlin and Angular
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Angular and python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Java 😂
 
