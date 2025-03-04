@@ -4,6 +4,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Java 😂
 
+<!---
 <div style="height:100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" />
@@ -11,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
 </div>
+--->
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicalo&layout=compact&langs_count=7&theme=codeSTACKr"/>
 
