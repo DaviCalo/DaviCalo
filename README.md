@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Angular and python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Java 😂
+- 🌐 Visit my portfolio in development: [Click Here](https://new-portifolio-chi.vercel.app/)
 
 <!---
 <div style="height:100px;">
