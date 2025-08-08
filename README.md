@@ -17,8 +17,4 @@
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicalo&layout=compact&langs_count=7&theme=codeSTACKr"/>
 
-<!---
-DaviCalo/DaviCalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----- 📫 How to reach me ...
---->
+![](https://komarev.com/ghpvc/?username=DaviCalo&color=79b8ff)
